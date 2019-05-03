@@ -15,11 +15,9 @@ const Header = () => {
               </a>
             </div>
             <div class="dtc v-mid tr pa3">
-              <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >How it Works</a>
-              <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >Pricing</a>
-              <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >About</a>
-              <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >Careers</a>
-              <a class="f6 fw4 hover-white no-underline white-70 dib ml2 pv2 ph3 ba" href="/" >Sign Up</a>
+              <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >About</a>
+              <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >Portfolio</a>
+              <a class="f6 fw4 hover-white no-underline white-70 dib ml2 pv2 ph3 ba" href="/" >Contact me</a>
             </div>
           </nav>
           <div class="tc-l mt4 mt5-m mt6-l ph3">
