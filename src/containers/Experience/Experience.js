@@ -7,7 +7,7 @@ import bracketsIcon from '../media/brackets.svg';
 
 const Experience = () => {
   return (
-    <div className="bg-black-80 pb5">
+    <div className="pb2">
       <div className="mw9 center ph3-ns">
         <div className="cf ph2-ns">
           <div className="fl w-100 w-third-ns pt3 pb2">
@@ -34,7 +34,7 @@ const Experience = () => {
                 <div className="tc">
                   <img src={bracketsIcon} alt="brackets icon" className="br-100 h3 w3 dib ba b--gray pa2"></img>
                   <h1 className="f3 mb2 moon-gray">Development</h1>
-                  <h2 className="f5 fw4 light-gray mt0">Experience includes: Python, C#, Java, PowerShell, bash, CMD, relational databases etc.</h2>
+                  <h2 className="f5 fw4 light-gray mt0">Experience includes: Python, C#, Java, PowerShell, bash, CMD, relational databases and more.</h2>
                 </div>
               </article>
           </div>

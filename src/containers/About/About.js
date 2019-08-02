@@ -1,16 +1,19 @@
 import React from 'react';
 import './About.css';
-import frontendIcon from '../media/code.svg';
-import backendIcon from '../media/terminal.svg';
-import bracketsIcon from '../media/brackets.svg';
+import 'animate.css';
 
 
 const About = () => {
   return (
-    <div className="bg-black-80 flex justify-center pb7">
-      <article className="mw5 br3 pa4 mr4 ba b--mid-gray w-50">
+    <div>
+    <section className="center mw4">
+      <h2 className="fw3 f3 white-80 mt3 mb4">about me</h2>
+    </section>
+    <div className="fl w-100">
+      <section className="mw9 center">
+      <article className="fl">
         <div className="tc moon-gray">
-          <h1 className="f4">Info</h1>
+          <h1 className="fw3 f3 white-80 mt3 mb4">Info</h1>
           <hr className="mw3 bb bw1 b--white-10" />
         </div>
           <dl className="f6 mv2">
@@ -34,9 +37,9 @@ const About = () => {
             <dd className="dib ml0 moon-gray">Music, movies & TV, diet and excercise.</dd>
           </dl>
       </article>
-      <article className="mw8 br3 pa4 ml4 ba b--mid-gray w-50">
+      <article className="fl mw6">
         <div className="tc moon-gray">
-          <h1 className="f4">Bio</h1>
+          <h1 className="fw3 f3 white-80 mt3 mb4">Bio</h1>
           <hr className="mw3 bb bw1 b--white-10" />
         </div>
         <p className="lh-copy center f6 black-70 moon-gray ma0">
@@ -50,7 +53,9 @@ const About = () => {
           I enjoy learning and understanding things and programming is a great way to do that. You get instant feedback if you have understood something correctly (either it works or it doesn't).
         </p>
       </article>
+      </section>
   </div>
+</div>
   )
 }
 
