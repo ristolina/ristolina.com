@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "ristolina.github.io/static/css/main.633d3542.chunk.css",
+    "main.js": "ristolina.github.io/static/js/main.c3e6d2d9.chunk.js",
+    "main.js.map": "ristolina.github.io/static/js/main.c3e6d2d9.chunk.js.map",
+    "runtime~main.js": "ristolina.github.io/static/js/runtime~main.7d44ae85.js",
+    "runtime~main.js.map": "ristolina.github.io/static/js/runtime~main.7d44ae85.js.map",
+    "static/css/2.9776ef19.chunk.css": "ristolina.github.io/static/css/2.9776ef19.chunk.css",
+    "static/js/2.db66e26c.chunk.js": "ristolina.github.io/static/js/2.db66e26c.chunk.js",
+    "static/js/2.db66e26c.chunk.js.map": "ristolina.github.io/static/js/2.db66e26c.chunk.js.map",
+    "index.html": "ristolina.github.io/index.html",
+    "precache-manifest.a06efc795ffce927f403d6d6861c35ea.js": "ristolina.github.io/precache-manifest.a06efc795ffce927f403d6d6861c35ea.js",
+    "service-worker.js": "ristolina.github.io/service-worker.js",
+    "static/css/2.9776ef19.chunk.css.map": "ristolina.github.io/static/css/2.9776ef19.chunk.css.map",
+    "static/css/main.633d3542.chunk.css.map": "ristolina.github.io/static/css/main.633d3542.chunk.css.map",
+    "static/media/App.css": "ristolina.github.io/static/media/background.42fd2d74.jpg",
+    "static/media/brackets.svg": "ristolina.github.io/static/media/brackets.8c7c6f3d.svg",
+    "static/media/code.svg": "ristolina.github.io/static/media/code.5291b74f.svg",
+    "static/media/ristolina-logo_mono-light.svg": "ristolina.github.io/static/media/ristolina-logo_mono-light.4de2eb4d.svg",
+    "static/media/terminal.svg": "ristolina.github.io/static/media/terminal.8baa2610.svg"
+  }
+}
