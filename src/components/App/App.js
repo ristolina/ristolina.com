@@ -150,20 +150,32 @@ class App extends Component {
     const { showAbout } = this.state;
     return (
       <div className="App">
-        <div id="Particle-Canvas">
-          <Particles className="particles" params={particleOptions} />
-        </div>
+        <section id="home">
+        </section>
+        {/*
+          <div id="Particle-Canvas">
+            <Particles className="particles" params={particleOptions} />
+          </div>
+           */}
+
+
           <Header/>
-          <div className="vh-100">
-              <div className="">
-                <div className="dt center vh-75">
-                  <Callout/>
-                </div>
-                <div className="fl w-100 vh-25">
+          <div className="flex flex-wrap w-100 justify-center">
+              <div className="dt center vh-100 w-100">
+                <Callout/>
+              </div>
+              <div className="w-100 bg-black-05 vh-50 pt3">
+                <section id="experience">
                   <Experience />
-                </div>
+                </section>
+              </div>
+              <div className="w-100 vh-50">
+                <section id="portfolio">
+                  <Portfolio />
+                </section>
               </div>
           </div>
+
 
       </div>
     );
